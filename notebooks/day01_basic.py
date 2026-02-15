@@ -14,3 +14,5 @@ print("내 나이는",age,"살입니다 !",sep="")
 
 value = 10
 print(f"{value * 3}")
+
+print(f"내 나이는 {age:05d}살입니다")
